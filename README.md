@@ -1,4 +1,4 @@
-# Re-useable Interactive Sales Performance Dashboard
+# Interactive Sales Performance Dashboard
 
 ## Project Overview
 
