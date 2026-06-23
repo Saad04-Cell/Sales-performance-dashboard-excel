@@ -1,8 +1,8 @@
-# Interactive Sales Performance Dashboard
+# Re-useable Interactive Sales Performance Dashboard
 
 ## Project Overview
 
-This project is a Reusable Sales Performance Dashboard built in Microsoft Excel using Power Query, Data Model, PivotTables, Pivot Charts, and Slicers.
+This project is a Re-usable Sales Performance Dashboard built in Microsoft Excel using Power Query, Data Model, PivotTables, Pivot Charts, and Slicers.
 
 The goal of this project was not just to analyze data, but to build a reporting system that can:
 
