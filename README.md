@@ -85,7 +85,7 @@ We are building a structure that can:
 
 ## Dashboard Preview
 
-<img width="1680" height="795" alt="original dashboard.png" src="https://github.com/user-attachments/assets/3015d000-3d78-41a6-8162-e68bc2da1f1e" />
+<img width="1680" height="795"  src="https://github.com/user-attachments/assets/3015d000-3d78-41a6-8162-e68bc2da1f1e" />
 
 
 ---
