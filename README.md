@@ -93,14 +93,13 @@ We are building a structure that can:
 * Data Visualization
 * KPI Development
 * Reporting Automation
-
 ---
 ## 📂 Project Files
-Download the project resources below:
 
-- 📊
-- 📄 
-- 📄 
+Download the project files below:
+
+- 📊 [Excel Dashboard](./OrderCustomerDetails%20(1).xlsx)
+- 🖼️ [Dashboard Preview](./original%20dashboard.png)
 ---
 ## Author
 
