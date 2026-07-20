@@ -98,7 +98,7 @@ We are building a structure that can:
 
 Download the project files below:
 
-- 📊 [Excel Dashboard](./OrderCustomerDetails%20(1).xlsx)
+- 📊 [Reuseable Sales Excel Dashboard](./OrderCustomerDetails%20(1).xlsx)
 - 🖼️ [Dashboard Preview](./original%20dashboard.png)
 ---
 ## Author
