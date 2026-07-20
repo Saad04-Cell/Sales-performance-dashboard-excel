@@ -95,7 +95,13 @@ We are building a structure that can:
 * Reporting Automation
 
 ---
+## 📂 Project Files
+Download the project resources below:
 
+- 📊 [Excel Dashboard](Dashboard.xlsx)
+- 📄 [Raw Data] ()
+- 📄 [Analysed Data]()
+---
 ## Author
 
 **Saad Khadijat**
